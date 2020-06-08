@@ -1,0 +1,5 @@
+/data/tub*
+/models/*.h5
+/models/*.png
+.idea
+*.pyc
