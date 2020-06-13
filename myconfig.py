@@ -12,3 +12,4 @@
 VERBOSE_TRAIN=True
 
 SHOW_PLOT=True
+DATA_PATH="./data"
